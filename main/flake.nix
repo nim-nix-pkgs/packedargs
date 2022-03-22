@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-packedArgs-main.flake = false;
+  inputs.src-packedArgs-main.ref   = "refs/heads/main";
   inputs.src-packedArgs-main.owner = "hamidb80";
-  inputs.src-packedArgs-main.ref   = "main";
   inputs.src-packedArgs-main.repo  = "packedArgs";
   inputs.src-packedArgs-main.type  = "github";
   
