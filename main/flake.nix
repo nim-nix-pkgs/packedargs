@@ -11,6 +11,7 @@
   inputs.src-packedArgs-main.ref   = "refs/heads/main";
   inputs.src-packedArgs-main.owner = "hamidb80";
   inputs.src-packedArgs-main.repo  = "packedArgs";
+  inputs.src-packedArgs-main.dir   = "";
   inputs.src-packedArgs-main.type  = "github";
   
   inputs."macroplus".owner = "nim-nix-pkgs";
