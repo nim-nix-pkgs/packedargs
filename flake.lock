@@ -184,11 +184,11 @@
       },
       "locked": {
         "dir": "0_2_3",
-        "lastModified": 1668775924,
-        "narHash": "sha256-gOTRQFBOOiN8iuDJDrB4iwA/DRWjDQ4RVSCQKdeadF0=",
+        "lastModified": 1669431195,
+        "narHash": "sha256-E9oXpWFmI0ueM+EqYlLhRHeLR9pYyZgjHTzF/NLXyWQ=",
         "owner": "nim-nix-pkgs",
         "repo": "macroplus",
-        "rev": "c1d9cac236d880a6b080b6824eecce59f4a3d962",
+        "rev": "2d94526ba9d5aa0c7fbce18121bc70c33d95ebe6",
         "type": "github"
       },
       "original": {
@@ -242,11 +242,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1668776780,
-        "narHash": "sha256-u32xkcA9OreBPFOsOBI0a+YeD4mcMkjo109mAfwB6tw=",
+        "lastModified": 1669431928,
+        "narHash": "sha256-DaIEvxeiLpCN0AhJv0TUEjwPbZHNfPRhMOrmMyhw6F8=",
         "owner": "nim-nix-pkgs",
         "repo": "packedargs",
-        "rev": "72cc66c33bb14b34f992da78ec346406c0ec816e",
+        "rev": "9f2f7deefe2dac819fe526f91b6e1a0bbc693aa2",
         "type": "github"
       },
       "original": {
@@ -284,11 +284,11 @@
     "src-packedArgs-main": {
       "flake": false,
       "locked": {
-        "lastModified": 1644862748,
-        "narHash": "sha256-ebVpuepW26LUXU3hMFLWx/R3PCbaidEOKw5h7TtxXiA=",
+        "lastModified": 1668960656,
+        "narHash": "sha256-Hp/J2YXmTqwGeelAG/lpRbuGSkYnF3hXOn09q/BkVDc=",
         "owner": "hamidb80",
         "repo": "packedArgs",
-        "rev": "29dfc87cd13ea6c691c9d2e8d251fb3202e9acb1",
+        "rev": "ec10c257925f80e6dd9be98e32ce2a2bb35118e3",
         "type": "github"
       },
       "original": {
